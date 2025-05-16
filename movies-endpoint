@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nome": "A Babá: O Chamado das Sombras",
+    "descricao": "Uma jovem é contratada como babá em uma casa antiga, mas logo descobre que forças sombrias habitam o local.",
+    "imagem": "https://exemplo.com/imagens/baba.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Noite de Terror",
+    "descricao": "Durante um apagão misterioso, uma cidade é tomada pelo caos e criaturas da escuridão.",
+    "imagem": "https://exemplo.com/imagens/noite.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "O Último Portal",
+    "descricao": "Um arqueólogo encontra uma passagem para outra dimensão e libera um antigo mal.",
+    "imagem": "https://exemplo.com/imagens/portal.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "Reféns do Medo",
+    "descricao": "Um grupo de jovens se vê encurralado em um hotel assombrado sem saída.",
+    "imagem": "https://exemplo.com/imagens/refens.jpg"
+  },
+  {
+    "id": 5,
+    "nome": "Chamas do Inferno",
+    "descricao": "Após um experimento dar errado, um incêndio sobrenatural ameaça destruir uma cidade inteira.",
+    "imagem": "https://exemplo.com/imagens/chamas.jpg"
+  }
+]
