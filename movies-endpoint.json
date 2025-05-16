@@ -3,30 +3,30 @@
     "id": 1,
     "nome": "A Babá: O Chamado das Sombras",
     "descricao": "Uma jovem é contratada como babá em uma casa antiga, mas logo descobre que forças sombrias habitam o local.",
-    "imagem": [https://crdsilva17.github.io/API-streaming/A%20bab%C3%A1348.jpeg, https://crdsilva17.github.io/API-streaming/A%20bab%C3%A196.jpeg]
+    "imagem": ["https://crdsilva17.github.io/API-streaming/A%20bab%C3%A1348.jpeg", "https://crdsilva17.github.io/API-streaming/A%20bab%C3%A196.jpeg"]
   },
   {
     "id": 2,
     "nome": "Perdido em marte",
     "descricao": "Após uma violenta tempestade em Marte, o astronauta Mark Watney é dado como morto e deixado para trás por sua equipe.",
-    "imagem": [https://crdsilva17.github.io/API-streaming/Perdido%20em%20marte348.jpeg]
+    "imagem": ["https://crdsilva17.github.io/API-streaming/Perdido%20em%20marte348.jpeg"]
   },
   {
     "id": 3,
     "nome": "Alarum",
     "descricao": "Em um futuro distópico onde as emoções humanas são controladas por sistemas automatizados, um técnico solitário descobre uma falha no sistema de alarmes que pode colocar toda a sociedade em risco.",
-    "imagem": [https://crdsilva17.github.io/API-streaming/alarum348.jpeg, https://crdsilva17.github.io/API-streaming/alarum96.jpeg]
+    "imagem": ["https://crdsilva17.github.io/API-streaming/alarum348.jpeg", "https://crdsilva17.github.io/API-streaming/alarum96.jpeg"]
   },
   {
     "id": 4,
     "nome": "Deadpool",
     "descricao": "Um anti-herói irreverente e sarcástico busca vingança após um experimento que lhe dá poderes de cura e um senso de humor ainda mais afiado.",
-    "imagem": [https://crdsilva17.github.io/API-streaming/deadpool348.jpeg, https://crdsilva17.github.io/API-streaming/deadpool96.jpeg]
+    "imagem": ["https://crdsilva17.github.io/API-streaming/deadpool348.jpeg", "https://crdsilva17.github.io/API-streaming/deadpool96.jpeg"]
   },
   {
     "id": 5,
     "nome": "It a coisa",
     "descricao": "Um grupo de crianças enfrenta um antigo mal sobrenatural que assume a forma de um palhaço aterrorizante e se alimenta de seus maiores medos.",
-    "imagem": [https://crdsilva17.github.io/API-streaming/it%20a%20coisa348.jpeg]
+    "imagem": ["https://crdsilva17.github.io/API-streaming/it%20a%20coisa348.jpeg"]
   }
 ]
